@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "your_username",
+    "password": "your_password",
+    "database": "your_database",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "your_username",
+    "password": "your_password",
+    "database": "your_test_database",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "your_username",
+    "password": "your_password",
+    "database": "your_production_database",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
