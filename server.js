@@ -3,6 +3,8 @@ require('dotenv').config();
 const app = require('./src/app');
 
 const PORT = process.env.PORT || 3000;
+
+// Start Server
 const server = app.listen(PORT, () => {
   console.log(`App running running on port ${PORT}`);
 });
