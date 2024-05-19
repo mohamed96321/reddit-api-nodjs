@@ -1,1 +1,1 @@
-# reddit-api-nodjs
+# reddit-api-nodjs-postgers
